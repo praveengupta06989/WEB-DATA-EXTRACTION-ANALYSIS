@@ -45,14 +45,6 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-### Easiest method
-
-Double-click:
-
-`run_project.bat`
-
-It automatically installs the required libraries and runs the complete project.
-
 ### Output
 
 After a successful run:
