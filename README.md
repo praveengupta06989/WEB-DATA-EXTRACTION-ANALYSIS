@@ -1,4 +1,4 @@
-# WEB DATA EXTRACTION & ANALYSIS - TASK 5
+# WEB DATA EXTRACTION & ANALYSIS
 
 ## Ready-to-run VS Code project
 
